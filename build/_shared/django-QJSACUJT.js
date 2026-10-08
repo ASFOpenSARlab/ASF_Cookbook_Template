@@ -1,1 +1,1 @@
-import{a}from"/ASF_SAR_Community_Cookbook/build/_shared/chunk-Q74ZAMHH.js";import"/ASF_SAR_Community_Cookbook/build/_shared/chunk-DOYQ5WN6.js";import"/ASF_SAR_Community_Cookbook/build/_shared/chunk-RAQ24GF6.js";export default a();
+import{a}from"/ASF_Cookbook_Template/build/_shared/chunk-Q74ZAMHH.js";import"/ASF_Cookbook_Template/build/_shared/chunk-DOYQ5WN6.js";import"/ASF_Cookbook_Template/build/_shared/chunk-RAQ24GF6.js";export default a();
