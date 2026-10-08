@@ -9,7 +9,10 @@ on:
 
 jobs:
   build:
-    uses: ProjectPythia/cookbook-actions/.github/workflows/build-book.yaml@main
+    uses: ASFOpenSARlab/cookbook-actions/.github/workflows/build-book.yaml@main
+    with:
+      environment_manager: pixi
+      build_command: 'myst build --html'
 
   deploy:
     needs: build
