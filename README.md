@@ -39,6 +39,18 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ## Running the Notebooks
 
+### Running in a Jupyter Hub
+
+If you are working in a Jupyter Hub that allows you to build Pixi environments, such as [OpenSARLab](https://opensarlab-docs.asf.alaska.edu/user-guides/opensarlab/), use the following steps to run the notebooks in this cookbook.
+
+1. Clone the repository:
+
+   ```bash
+    git clone https://github.com/your_account/your_cookbook.git
+   ```
+
+1. Run the `notebooks/software_environment.ipynb` notebook.
+
 ### Running on Your Own Machine
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
