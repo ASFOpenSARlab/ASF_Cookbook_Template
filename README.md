@@ -1,6 +1,6 @@
 # [OpenScienceLab Cookbook Template] Replace with Your Title
 
-<img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
+<img src="assets/ASF_logo.svg" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml)
 
