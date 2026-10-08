@@ -16,3 +16,6 @@ project:
         - file: CONTRIBUTING.md
         - file: notebooks/notebook-template.ipynb
 
+site:
+  template: book-theme
+
