@@ -1,14 +1,15 @@
-# (Replace_with_your_title) Cookbook
+# [OpenScienceLab Cookbook Template] Replace with Your Title
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
+[![nightly-build](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/actions/workflows/nightly-build.yaml)
 
-_See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Cookbook Template was adapted from the Project Pythia [Cookbook Template](https://github.com/projectpythia/cookbook-template/blob/main/README.md). It has been updated to provide templates for ASF Cookbooks using the Pixi package manager.
+
+See the [Project Pythia Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide/#:~:text=forking%20workflow.-,G.%20Deploying%20your%20Cookbook,%C2%B6,-Pythia%20Cookbooks%20are) for instructions on deploying your Cookbook to GitHub Pages.
+
+This Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
@@ -20,8 +21,8 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/cookbook-template" />
+<a href="https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/ASFOpenSARlab/ASF_Cookbook_Template" />
 </a>
 
 ## Structure
@@ -66,12 +67,12 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
+(Replace "ASFOpenSARlab/cookbook-example" with the GitHub org or user name and title of your cookbook)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ASFOpenSARlab/cookbook-example` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ASFOpenSARlab/cookbook-example.git
    ```
 
 1. Move into the `cookbook-example` directory

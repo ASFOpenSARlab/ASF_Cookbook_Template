@@ -1,13 +1,11 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
-extends:
-  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia Cookbook Template
-  github: https://github.com/projectpythia/cookbook-template
+  title: ASF Cookbook Template
+  github: https://github.com/ASFOpenSARlab/ASF_Cookbook_Template
   authors:
-    - name: The Project Pythia Community
-  copyright: '2024'
+    - name: ASF
+  copyright: '2026'
   toc:
     - file: README.md
     - title: Preamble
@@ -15,8 +13,6 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
+        - file: CONTRIBUTING.md
         - file: notebooks/notebook-template.ipynb
-  jupyter:
-      binder:
-        url: https://binder.projectpythia.org
-        repo: projectpythia/cookbook-template
+
