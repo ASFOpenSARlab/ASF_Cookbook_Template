@@ -22,7 +22,7 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 ### Contributors
 
 <a href="https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythia/ASFOpenSARlab/ASF_Cookbook_Template" />
+  <img src="https://contrib.rocks/image?repo=ASFOpenSARlab/ASF_Cookbook_Template" />
 </a>
 
 ## Structure
