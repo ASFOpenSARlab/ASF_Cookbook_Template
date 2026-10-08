@@ -67,25 +67,21 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "ASFOpenSARlab/cookbook-example" with the GitHub org or user name and title of your cookbook)
+(Replace "your_account/your_cookbook" with the GitHub org or user name and title of your cookbook repository)
 
-1. Clone the `https://github.com/ASFOpenSARlab/cookbook-example` repository:
+1. Create a copy of this Cookbook template repository, by clicking the `Use this template button` and selecting the `Create a new repository` option on this [repository's GitHub page](). 
+
+1. Clone the new repository:
 
    ```bash
-    git clone https://github.com/ASFOpenSARlab/cookbook-example.git
+    git clone https://github.com/your_account/your_cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `your_cookbook` directory
    ```bash
-   cd cookbook-example
+   cd your_cookbook
    ```
-1. Create and activate your conda environment from the `environment.yml` file
-   ```bash
-   conda env create -f environment.yml
-   conda activate cookbook-example
-   ```
-1. Move into the `notebooks` directory and start up Jupyterlab
-   ```bash
-   cd notebooks/
-   jupyter lab
-   ```
+1. Launch in Jupyter Lab with the included Pixi environment
+    ```bash
+    pix run lab
+    ```
