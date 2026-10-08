@@ -11,6 +11,10 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
+    - title: Cookbook Set Up
+      children:
+        - file: notebooks/software_environment.ipynb
+        - file: notebooks/set_up_Earthdata_Login.md
     - title: Introduction
       children:
         - file: CONTRIBUTING.md
