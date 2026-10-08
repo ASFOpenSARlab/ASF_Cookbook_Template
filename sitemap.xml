@@ -8,6 +8,12 @@
     <loc>http://localhost:3000/how-to-cite</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/software-environment</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/set-up-earthdata-login</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/contributing</loc>
   </url>
   <url>
