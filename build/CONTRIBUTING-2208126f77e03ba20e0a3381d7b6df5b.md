@@ -4,7 +4,7 @@
 We welcome contributions!
 <br>
 
-Please read our [Code of Conduct](https://github.com/ASFOpenSARlab/NISAR_Cookbook/CODE_OF_CONDUCT.md) before contributing.
+Please read our [Code of Conduct](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/CODE_OF_CONDUCT.md) before contributing.
 
 This project uses the standard **fork → branch → pull request** workflow.
 
@@ -59,7 +59,7 @@ To maintain a consistent format for the Jupyter Book, we have provided a [Notebo
 ## 9. Add any new dependencies to a new or existing Pixi environment
 If you add dependencies, you will need to [add them to an existing or new Pixi environment](https://rse-guidelines.readthedocs.io/en/latest/fundamentals/computing-development-environments/pixi/#:~:text=packages%20go%20here-,3.%20Adding%20Dependencies,-Add%20conda%20packages).
 
-Adds steps to install any new enviornments to the [software environment installation notebook](create_software_environment.ipynb).
+Adds steps to install any new enviornments to the [software environment installation notebook](https://github.com/ASFOpenSARlab/ASF_Cookbook_Template/blob/main/notebooks/software_environment.ipynb).
 
 ## 10. Add and commit your changes
 Commit in small, focused steps.
